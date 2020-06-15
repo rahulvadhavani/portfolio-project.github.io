@@ -32,6 +32,7 @@ ul{
 	width: 30%;
 
 }
+.logo12{height: 70px;}
 
 .lmenu img{transition: all 0.3s;}
 .lmenu img:hover{transform: scale(1.1);}
@@ -280,6 +281,7 @@ background-color:black; box-shadow: 0px 0px 20px 10px #09fbd3;}
 		margin-top: 25px;}
 	.contactbox h1{ font-size: 25px; }
 	.contactbox {margin: 10px;}
+	.logo12{height: 50px;}
 
 }
 
