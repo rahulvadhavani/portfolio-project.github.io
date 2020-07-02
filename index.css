@@ -186,7 +186,7 @@ input.form-control{
 
 footer{
 
-    user-select:auto;
+
     position: absolute; 
 	margin-top: 100px;
 	height:auto; width: 100%;
@@ -197,7 +197,7 @@ footer{
 
 }
 
-footer p{line-height: 70px; text-align: center; margin-bottom: 0px;}
+footer p{line-height: 70px; text-align: center; margin-bottom: 0px; user-select:auto;}
 
 
 
